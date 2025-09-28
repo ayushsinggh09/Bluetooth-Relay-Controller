@@ -6,4 +6,4 @@ Smart Relay Commander Smart Relay Commander is a Flutter-based mobile applicatio
 
 💡 Real-time Bluetooth status and connection state
 
-🔄 Refresh paired devices list witsingle tap
+🔄 Refresh paired devices list with single tap
